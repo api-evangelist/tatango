@@ -64,5 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Tatango is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://tatango.com/
+Tatango provides a cloud‑based SMS fundraising platform for nonprofit organizations, enabling them to create, send, and manage text‑message donation campaigns at scale. Founded in 2007, the service supports integrations with major donor‑management tools, offers AI‑driven segmentation, and reports high open‑rate and ROI metrics. It serves thousands of nonprofits and political campaigns, handling billions of messages annually, and emphasizes compliance with TCPA and 10DLC regulations.
+
+**Areas:** Company · SMS · Fundraising · Nonprofit · Marketing
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://tatango.com/)
+- [Documentation](https://www.tatango.com/resources)
+- [Getting started](http://help.tatango.com/en/articles/10178331-getting-started-with-segments)
+- [API reference](https://developers.momogood.com/llms.txt)
+- [Pricing](https://www.tatango.com/pricing/)
+- [Support](https://www.tatango.com/contact-sales/)
+- [Blog](https://www.tatango.com/blog)
+- [Compliance](https://www.tatango.com/trust)
+- [Terms of service](https://www.tatango.com/terms-conditions)
+- [Privacy policy](https://www.tatango.com/privacy-policy)
+- [GitHub](https://github.com/tatango)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/tatango/](https://apis.io/providers/tatango/).
